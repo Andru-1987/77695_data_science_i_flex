@@ -1,0 +1,11 @@
+[project]
+name = "77695-data-science-i-flex"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib>=3.10.5",
+    "pandas>=2.3.2",
+    "seaborn>=0.13.2",
+]
