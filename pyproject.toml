@@ -10,6 +10,7 @@ dependencies = [
     "ruff>=0.12.11",
     "scikit-learn>=1.7.1",
     "seaborn>=0.13.2",
+    "statsmodels>=0.14.5",
 ]
 
 
