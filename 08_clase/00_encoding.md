@@ -28,8 +28,6 @@ Los modelos matemáticos no entienden texto o categorías directamente, por eso 
 # Arbol Encoding
 ![Resumen Visual](./assets/encoding_flowchart.png)
 
-Excelente pedido, Andru. Te preparo primero una breve **explicación de qué es encoding** y después te doy un **ejemplo claro de cada tipo de encoding** aplicado a una misma variable para que se vea la diferencia.
-
 ---
 
 
