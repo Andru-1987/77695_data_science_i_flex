@@ -6,14 +6,20 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "altair>=5.5.0",
+    "catboost>=1.2.8",
     "dtreeviz>=2.2.2",
     "graphviz>=0.21",
+    "imbalanced-learn>=0.14.0",
+    "lightgbm>=4.6.0",
     "matplotlib>=3.10.5",
+    "nbformat>=5.10.4",
     "pandas>=2.3.2",
+    "plotly>=6.3.1",
     "ruff>=0.12.11",
     "scikit-learn>=1.7.1",
     "seaborn>=0.13.2",
     "statsmodels>=0.14.5",
+    "xgboost>=3.0.5",
 ]
 
 
